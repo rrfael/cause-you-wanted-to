@@ -3,6 +3,6 @@
 
 2. download the "CobblemonGG Official Modpack 1.1.6 1.0.0" file from this repo
 
-3. run the "CobblemonGG Official Modpack 1.1.6 1.0.0" file
+3. RUN the "CobblemonGG Official Modpack 1.1.6 1.0.0" file ( You might have to sign in to minecraft )
 
 4. Wait...
